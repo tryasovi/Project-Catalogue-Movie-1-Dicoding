@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MovieApplication</string>
+    <string name="masukan_judul">Search Movie</string>
+    <string name="nama_movie">Movie Name</string>
+    <string name="cari">Search</string>
+    <string name="judul">Title</string>
+    <string name="deskripsi">Description</string>
+    <string name="tanggal">Date of Release</string>
+</resources>
